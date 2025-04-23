@@ -1,0 +1,43 @@
+PELATIHAN JUNIOR WEB DEVELOPER
+
+PRASYARAT:
+- XAMPP
+- VSCODE
+- VSCODE PLUGINS: 
+  - PRETTIER CODE FORMATTER
+  - PHP INTELEPHENSE
+- RUNNING XAMPP CONTROL
+  - APACHE
+  - MYSQL SERVER
+
+
+GOAL: WEB E-COMMERCE
+
+
+TEORI:
+
+
+PRAKTIK:
+- BUKA PHPMYADMIN
+- BUAT DATABASE
+- BUAT TABEL:
+  - tb_barang
+  - tb_pelanggan
+  - tb_penjualan
+
+- BUAT MOCKUP TAMPIL DATA
+  - BUAT FOLDER PROJECT DI C:/XAMPP/HTDOCS
+  - MISAL barang-app
+  - buat file koneksi
+  - sesuaikan nama DB
+
+https://github.com/incyberz/pelatihan-jwd-disnaker-1
+
+
+
+
+
+
+
+
+ASSESMENT:
